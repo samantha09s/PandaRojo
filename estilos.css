@@ -1,0 +1,76 @@
+/*
+selector{
+    propiedad:valor;
+    propiedad:valor;
+    propiedad:valor;
+}
+*/
+
+body {
+  background-color: #fff3d9;
+  font-family: 'Belanosima', sans-serif;
+  font-family: 'Lexend', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+
+header {
+  color: black;
+}
+header h1{
+  margin-left: 20px;
+}
+
+.navbar-brand img {
+  width: 45px;
+  height: 40px;
+}
+
+.main-title {
+  font-family: 'Belanosima', sans-serif;
+  font-family: 'Lexend', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+
+a {
+  text-decoration: overline;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #3b0918; /* Cambiar el color de la letra a rojo (#3b0918) */
+  display: inline-block; /* Alinea los enlaces en línea uno al lado del otro */
+  padding: 5px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+/* Estilos al pasar el cursor sobre los enlaces */
+.menu a:hover {
+  background-color: #fff3d9;
+  border-radius: 3px;
+}
+
+.PandaGoogle {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.PandaCarpeta {
+  max-width: 70%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.derechos-de-autor {
+  color: #3b0918;
+  margin-left: 32%;
+}
